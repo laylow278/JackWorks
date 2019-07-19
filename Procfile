@@ -1,1 +1,1 @@
-web: gunicorn -w 4 app:jackwork
+web: gunicorn -w 4 jackwork:app
